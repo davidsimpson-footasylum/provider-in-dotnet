@@ -1,8 +1,8 @@
 # Example Provider
 
-[![Build Status](https://travis-ci.com/pactflow/pactflow-example-provider-dotnet.svg?branch=master)](https://travis-ci.com/pactflow/pactflow-example-provider-dotnet)
+[![Build Status](https://travis-ci.com/pactflow/provider-in-dotnet.svg?branch=master)](https://travis-ci.com/pactflow/provider-in-dotnet)
 
-[![Pact Status](https://dius.pactflow.io/pacts/provider/pactflow-example-provider-dotnet/consumer/pactflow-pactflow-example-provider-dotnet/latest/badge.svg?label=provider)](https://dius.pactflow.io/pacts/provider/pactflow-example-provider-dotnet/consumer/pactflow-pactflow-example-provider-dotnet/latest) (latest pact)
+[![Pact Status](https://dius.pactflow.io/pacts/provider/provider-in-dotnet/consumer/pactflow-provider-in-dotnet/latest/badge.svg?label=provider)](https://dius.pactflow.io/pacts/provider/pactflow-example-provider-dotnet/consumer/pactflow-pactflow-example-provider-dotnet/latest) (latest pact)
 
 [![Pact Status](https://dius.pactflow.io/matrix/provider/pactflow-example-provider-dotnet/latest/prod/consumer/pactflow-pactflow-example-provider-dotnet/latest/prod/badge.svg?label=provider)](https://dius.pactflow.io/pacts/provider/pactflow-example-provider-dotnet/consumer/pactflow-pactflow-example-provider-dotnet/latest/prod) (prod/prod pact)
 
